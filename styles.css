@@ -2,11 +2,11 @@
     margin: 0;padding: 0;text-align: center;
 }
 body{
-    background: #cefaf5;
+    background: #f0f5f5;
 }
 .header{
-    background: #fdf919;
-    color: rgb(23, 25, 26);
+    background: #0f0f0e;
+    color: rgb(255, 255, 255);
     margin: 0;
     padding: 2rem;
 }
